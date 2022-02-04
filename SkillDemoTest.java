@@ -4,6 +4,6 @@ import org.junit.*;
 public class SkillDemoTest {
     @Test
     public void testIsEven() {
-        assertEquals(true, SkillDemo.isEvenSum(4, 3));
+        assertEquals(true, SkillDemo.isEvenSum(4, 2));
     }
 }
